@@ -1,0 +1,13 @@
+# Site
+title: AoraMD's Blog
+url: https://blog.aoramd.moe
+lang: en
+email: auroravmd@outlook.com
+github_username:  AoraMD
+
+# Build Settings
+markdown: kramdown
+color_scheme: bw
+exclude:
+  - Gemfile
+  - Gemfile.lock

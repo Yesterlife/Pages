@@ -1,0 +1,21 @@
+---
+layout: page
+title: Friends
+cover_url: https://i.loli.net/2020/05/17/GkmqJCo8yVENrYW.png
+cover_meta: illustration by [Junsui](https://www.pixiv.net/artworks/66979494)
+navlevel: header
+navtitle: friends
+position: 2
+---
+
+- [**Nalecy**](https://www.nalecy.top)
+
+  *一名爱看番打游戏的 Android 码农*
+
+- [**养生达人不熬夜**](http://www.reo-lin.top)
+
+  *我的键盘只有三个键：Ctrl，C，V*
+
+- [**Chen-JX**](https://chen-jx.github.io)
+
+  *妥妥的一枚拧不开瓶盖的小仙女儿*
