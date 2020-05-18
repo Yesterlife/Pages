@@ -6,7 +6,6 @@ cover_url: https://i.loli.net/2020/05/17/xGeAYcSCNK1VwWt.png
 cover_meta: illustration by [ArseniXC](https://www.pixiv.net/artworks/53117853)
 tags: 
   - Java
-  - Jvm
 ---
 
 下方为 Java 虚拟机规范（以下简称规范）中对 Class 文件的描述，Class 文件由多个字段构成。

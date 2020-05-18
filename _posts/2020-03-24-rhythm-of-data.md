@@ -6,7 +6,6 @@ cover_url: https://i.loli.net/2020/05/17/xGcfpsC4w2OtXZI.png
 cover_meta: illustration by [Waisshu](https://www.pixiv.net/artworks/76304928)
 tags: 
   - Android
-  - Jetpack
 ---
 
 LiveData 作为一个具备生命周期感知能力的可观察数据存储器，有效解决了界面数据同步与生命周期持有对象释放的问题，避免内存泄漏，由于过于好用，使用起来不停地喊芜湖。

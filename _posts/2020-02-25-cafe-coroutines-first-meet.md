@@ -6,7 +6,6 @@ cover_url: https://i.loli.net/2020/05/17/6o8nGtaFOXYeuLz.png
 cover_meta: illustration by [Kayamori](https://www.pixiv.net/artworks/63116446)
 tags: 
   - Kotlin
-  - Coroutines
   - Café Coroutines
 ---
 
