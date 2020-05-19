@@ -19,3 +19,11 @@ position: 2
 - [**Chen-JX**](https://chen-jx.github.io)
 
   *妥妥的一枚拧不开瓶盖的小仙女儿*
+
+- [**Ender**](https://ender-coder.github.io)
+
+  *心之所向便是光*
+
+- [**Healer**](https://komicareborn.github.io)
+
+  *Nothing is true. Everything is permitted.*
