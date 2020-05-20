@@ -290,5 +290,3 @@ lifecycleScope.launchWhenStarted {
 - [Kotlin 中文站 - 异步程序设计](https://www.kotlincn.net/docs/tutorials/coroutines/async-programming.html)
 
 - [Kotlin 中文站 - 协程指南](https://www.kotlincn.net/docs/reference/coroutines/coroutines-guide.html)
-
-- [简书 - Kotlin/Jvm 协程实现原理](https://www.jianshu.com/p/d23c688feae7)
