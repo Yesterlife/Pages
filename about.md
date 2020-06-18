@@ -8,6 +8,6 @@ navtitle: about
 position: 100
 ---
 
-Android & Flutter 摸鱼开发，Arcaea 底层玩家。
+Android & Flutter 摸鱼开发，Kotlin 布道者，Arcaea 底层玩家。
 
 本站的文字主题绝大部分为开发或生活的随笔，欢迎相互交流。
