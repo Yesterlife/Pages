@@ -2,8 +2,8 @@
 layout: post
 title: "协程咖啡厅 - 构造魔法"
 description: "探索 Kotlin 协程实现原理"
-cover_url: https://i.loli.net/2020/05/20/1BN6CpzmGqI7jYi.png
-cover_meta: illustration by [Sakimori](https://www.pixiv.net/artworks/72390209)
+cover_url: https://i.loli.net/2020/05/17/6o8nGtaFOXYeuLz.png
+cover_meta: illustration by [Kayamori](https://www.pixiv.net/artworks/63116446)
 tags: 
   - Kotlin
   - Café Coroutines
