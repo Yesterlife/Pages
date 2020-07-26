@@ -537,7 +537,7 @@ private static class Source<V> implements Observer<V> {
 
 - 前文提到过，监听器均会在主线程被调用，因此数据源监听器内仅需采用 `setValue()`，而无需采用 `postValue()`。
 
-## 相关链接
+## 参考链接
 
 - [Android Developers - LiveData Overview](https://developer.android.com/topic/libraries/architecture/livedata)
 

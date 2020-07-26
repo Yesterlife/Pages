@@ -1069,7 +1069,7 @@ public class Test {
 > 
 > ![javap -verbose Test]({{ site.assets }}/assets/posts/first-cup-of-coffee/5.png)
 
-## 相关链接
+## 参考链接
 
 - [Oracle - Java Virtual Machine Specification Chapter 4. The class File Format](https://docs.oracle.com/javase/specs/Jvms/se13/html/Jvms-4.html)
 

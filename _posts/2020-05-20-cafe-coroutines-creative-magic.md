@@ -959,7 +959,7 @@ internal class DispatchedContinuation<in T>(
 }
 ```
 
-## 相关链接
+## 参考链接
 
 - [GitHub - Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 
