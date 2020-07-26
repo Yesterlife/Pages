@@ -49,7 +49,7 @@ val value: (Int, Boolean) -> String = ::function
 > () -> Unit
 > ```
 
-函数的实例化可通过 Lambda 表达式实现，如以下函数：
+函数的实例化可通过 Lambda 实现，如以下函数：
 
 ``` kotlin
 fun add(a: Int, b: Int): Int { return a + 1 }
