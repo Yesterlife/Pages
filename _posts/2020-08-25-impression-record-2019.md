@@ -13,30 +13,20 @@ tags:
 
 ---
 
-![DSC6955.png](https://i.loli.net/2020/08/26/dmvSzjNoW653Orl.png)
-
-<center style="font-size:14px;">广州 · 大学城外环绿道&emsp;&emsp;f/22&emsp;&emsp;1/160 sec&emsp;&emsp;ISO 200</center>
+{% include image.html url="https://i.loli.net/2020/08/26/dmvSzjNoW653Orl.png" description="广州 · 大学城外环绿道&emsp;&emsp;f/22&emsp;&emsp;1/160 sec&emsp;&emsp;ISO 200" %}
 
 ---
 
-![DSC7116.png](https://i.loli.net/2020/08/26/PNlYWu7SoIVGtQj.png)
-
-<center style="font-size:14px;">广州 · 东山湖&emsp;&emsp;f/2.8&emsp;&emsp;1/500 sec&emsp;&emsp;ISO 500</center>
+{% include image.html url="https://i.loli.net/2020/08/26/PNlYWu7SoIVGtQj.png" description="广州 · 东山湖&emsp;&emsp;f/2.8&emsp;&emsp;1/500 sec&emsp;&emsp;ISO 500" %}
 
 ---
 
-![DSC7140.png](https://i.loli.net/2020/08/26/3QTNXv4WrYjBKg9.png)
-
-<center style="font-size:14px;">广州 · 岭南印象园&emsp;&emsp;f/2.8&emsp;&emsp;1/200 sec&emsp;&emsp;ISO 3200</center>
+{% include image.html url="https://i.loli.net/2020/08/26/3QTNXv4WrYjBKg9.png" description="广州 · 岭南印象园&emsp;&emsp;f/2.8&emsp;&emsp;1/200 sec&emsp;&emsp;ISO 3200" %}
 
 ---
 
-![DSC7143.png](https://i.loli.net/2020/08/26/AteuDHgph4msaER.png)
-
-<center style="font-size:14px;">广州 · 北岛&emsp;&emsp;f/22&emsp;&emsp;1/500 sec&emsp;&emsp;ISO 3200</center>
+{% include image.html url="https://i.loli.net/2020/08/26/AteuDHgph4msaER.png" description="广州 · 北岛&emsp;&emsp;f/22&emsp;&emsp;1/500 sec&emsp;&emsp;ISO 3200" %}
 
 ---
 
-![DSC7209.png](https://i.loli.net/2020/08/26/rPZL9lksvBqbdgV.png)
-
-<center style="font-size:14px;">广州 · 琶洲&emsp;&emsp;f/2.8&emsp;&emsp;1/2000 sec&emsp;&emsp;ISO 1250</center>
+{% include image.html url="https://i.loli.net/2020/08/26/rPZL9lksvBqbdgV.png" description="广州 · 琶洲&emsp;&emsp;f/2.8&emsp;&emsp;1/2000 sec&emsp;&emsp;ISO 1250" %}
