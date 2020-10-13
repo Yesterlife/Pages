@@ -7,3 +7,6 @@ vendor
 
 # macOS
 .DS_Store
+
+# drafts
+_drafts
