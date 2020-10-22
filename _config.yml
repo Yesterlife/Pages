@@ -11,3 +11,5 @@ color_scheme: bw
 exclude:
   - Gemfile
   - Gemfile.lock
+feed:
+  path: atom.xml
