@@ -5,6 +5,10 @@ lang: zh-Hans
 email: contact@aoramd.moe
 github_username:  AoraMD
 
+gitalk_id: 67dccbfe0747aa7847b0
+gitalk_secret: 4ab55e743c6e62bced8f86d6a0fba633a02391c5
+gitalk_repository: Pages
+
 # Build Settings
 markdown: kramdown
 color_scheme: bw
