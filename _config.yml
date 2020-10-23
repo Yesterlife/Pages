@@ -12,8 +12,7 @@ gitalk_repository: Pages
 # Build Settings
 markdown: kramdown
 color_scheme: bw
-exclude:
-  - Gemfile
-  - Gemfile.lock
+plugins:
+  - jekyll-feed
 feed:
   path: atom.xml
