@@ -5,6 +5,7 @@ description: "Deep Dive in Binder"
 cover_url: https://i.loli.net/2020/07/22/Hzspafbdiw4OM2e.png
 cover_meta: illustration by [Kayamori](https://www.pixiv.net/artworks/63318516)
 tags: 
+  - Develop
   - Android
 ---
 

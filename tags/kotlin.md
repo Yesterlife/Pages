@@ -1,7 +1,7 @@
 ---
 title: Kotlin
 layout: post-list
-permalink: /tags/Kotlin
+permalink: /tags/kotlin
 filter:
   - by_tag: Kotlin
 ---

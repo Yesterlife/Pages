@@ -1,7 +1,7 @@
 ---
 title: Java
 layout: post-list
-permalink: /tags/Java
+permalink: /tags/java
 filter:
   - by_tag: Java
 ---

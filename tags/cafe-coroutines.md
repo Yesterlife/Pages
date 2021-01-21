@@ -1,7 +1,7 @@
 ---
 title: Café Coroutines
 layout: post-list
-permalink: /tags/Café+Coroutines
+permalink: /tags/cafe_coroutines
 filter:
   - by_tag: Café Coroutines
 ---

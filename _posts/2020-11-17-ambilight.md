@@ -5,6 +5,7 @@ description: "浅析 ART 堆实现 - 内存管理 #1"
 cover_url: https://i.loli.net/2020/11/18/uFWedkcQl7A92Mt.png
 cover_meta: illustration by [Nengoro](https://www.pixiv.net/artworks/82213401)
 tags: 
+  - Develop
   - Android
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Arcaea
 layout: post-list
-permalink: /tags/Arcaea
+permalink: /tags/arcaea
 filter:
   - by_tag: Arcaea
 ---
