@@ -8,6 +8,8 @@ navtitle: about
 position: 100
 ---
 
-Android & Flutter 摸鱼开发，Kotlin 布道者，Arcaea 底层玩家。
+M.D.（@AoraMD），魔法名极光。
+
+Android & Flutter 摸鱼开发，Kotlin 技术布道者，Arcaea 底层玩家，塞西莉娅信徒。
 
 本站的绝大部分文字主题为开发或生活的随笔，欢迎相互交流。
