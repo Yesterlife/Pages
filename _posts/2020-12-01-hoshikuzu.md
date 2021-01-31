@@ -2,7 +2,7 @@
 layout: post
 title: "星屑"
 description: "浅析 ART 堆实现 - 内存管理 #2"
-cover_url: https://i.loli.net/2020/12/01/G1WQaI2m6JO4BVA.png
+cover_url: /assets/covers/hoshikuzu.webp
 cover_meta: illustration by [Nengoro](https://www.pixiv.net/artworks/82213401)
 tags: 
   - Develop

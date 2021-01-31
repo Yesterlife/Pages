@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About M.D.
-cover_url: https://i.loli.net/2020/05/17/DaL2Cj9wVURzhiP.png
+cover_url: /assets/covers/about.webp
 cover_meta: illustration by [456](https://www.pixiv.net/artworks/65735830)
 navlevel: header
 navtitle: about

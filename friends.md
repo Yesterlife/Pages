@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Friends
-cover_url: https://i.loli.net/2020/05/17/GkmqJCo8yVENrYW.png
-cover_meta: illustration by [Junsui](https://www.pixiv.net/artworks/66979494)
+cover_url: /assets/covers/friends.webp
+cover_meta: illustration by [shnva](https://www.pixiv.net/artworks/78127035)
 navlevel: header
 navtitle: friends
 position: 2

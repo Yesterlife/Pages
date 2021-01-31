@@ -2,7 +2,7 @@
 layout: post
 title: "解离"
 description: "浅析证书锁定机制"
-cover_url: https://i.loli.net/2020/05/28/3TG2qs9MhYQxlep.png
+cover_url: /assets/covers/dissociate.webp
 cover_meta: illustration by [Waisshu](https://www.pixiv.net/artworks/61298977)
 tags: 
   - Develop

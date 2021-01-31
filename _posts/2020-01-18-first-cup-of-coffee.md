@@ -2,8 +2,8 @@
 layout: post
 title: "浅尝第一杯咖啡"
 description: "初步探索 Class 文件结构"
-cover_url: https://i.loli.net/2020/05/17/xGeAYcSCNK1VwWt.png
-cover_meta: illustration by [ArseniXC](https://www.pixiv.net/artworks/53117853)
+cover_url: /assets/covers/first-cup-of-coffee.webp
+cover_meta: illustration by [anyo](https://www.pixiv.net/artworks/81112469)
 tags: 
   - Develop
   - Java

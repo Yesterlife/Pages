@@ -2,7 +2,7 @@
 layout: post
 title: "隧穿"
 description: "Deep Dive in Binder"
-cover_url: https://i.loli.net/2020/07/22/Hzspafbdiw4OM2e.png
+cover_url: /assets/covers/tunnelling.webp
 cover_meta: illustration by [Kayamori](https://www.pixiv.net/artworks/63318516)
 tags: 
   - Develop

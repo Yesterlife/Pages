@@ -2,7 +2,7 @@
 layout: post
 title: "破碎记忆"
 description: "For Arcaea 3.0 Main Story Update"
-cover_url: https://i.loli.net/2020/05/29/CYdQtbInSgA2KDG.png
+cover_url: /assets/covers/broken-memories.webp
 cover_meta: illustration by [Cierra](https://arcaea.lowiro.com)
 tags: 
   - Arcaea

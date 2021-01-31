@@ -2,7 +2,7 @@
 layout: post
 title: "协程咖啡厅 - 初遇"
 description: "探索 Kotlin 协程及在 Android 中的应用"
-cover_url: https://i.loli.net/2020/05/17/6o8nGtaFOXYeuLz.png
+cover_url: /assets/covers/cafe-coroutines.webp
 cover_meta: illustration by [Kayamori](https://www.pixiv.net/artworks/63116446)
 tags: 
   - Develop
