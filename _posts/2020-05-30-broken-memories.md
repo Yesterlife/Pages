@@ -38,7 +38,7 @@ tags:
 
 前期剧情迷惑，可以算玩家之间的共识了。
 
-![Nobody knows what's happening in Arcaea's story.]({{ site.assets }}/assets/posts/broken-memories/story.png)
+![Nobody knows what's happening in Arcaea's story.]({{ site.assets }}/assets/posts/broken-memories/story.webp)
 
 <center style="font-size:14px;">Twitter 用户 Tokaku（@topkaku）的漫画，吐槽前期剧情</center>
 
@@ -154,6 +154,6 @@ and the faint glimmer of excitement provided by this cataclysmic view is snuffed
 
 看得出这三年来 Lowiro 对 Arcaea 的用心，正因为此，玩家们真切希望其能够在更加优秀的道路上步履不停。
 
-![Arcaea 3rd Anniversary]({{ site.assets }}/assets/posts/broken-memories/anniversary.png)
+![Arcaea 3rd Anniversary]({{ site.assets }}/assets/posts/broken-memories/anniversary.webp)
 
 <center style="font-size:14px;">迟来的三周年祝贺，这是 Arcaea 美术设计 シエラ（@cierra）所作的官方贺图</center>

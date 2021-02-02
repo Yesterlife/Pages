@@ -600,11 +600,11 @@ public class Test {
 
 > 本文采用 vim 读写 Class 文件，在通过命令 "vim -b <filename>" 打开后，可采用 vim 命令 ":%!xxd" 转换为 16 进制阅读。
 
-![vim -b Test.class]({{ site.assets }}/assets/posts/first-cup-of-coffee/1.png)
+![vim -b Test.class]({{ site.assets }}/assets/posts/first-cup-of-coffee/1.webp)
 
 对十六进制数据进行整理可以得出下表：
 
-![class file table]({{ site.assets }}/assets/posts/first-cup-of-coffee/2.png)
+![class file table]({{ site.assets }}/assets/posts/first-cup-of-coffee/2.webp)
 
 我们可以看到前 8 个字节所包含的信息：
 
@@ -616,7 +616,7 @@ public class Test {
 
 接下来的 2 个字节存储了 constant pool count，可以看到是 29，即常量池中包含了 28 个元素，来看一看常量池中所存储的常量项内容：
 
-![class file constant pool]({{ site.assets }}/assets/posts/first-cup-of-coffee/3.png)
+![class file constant pool]({{ site.assets }}/assets/posts/first-cup-of-coffee/3.webp)
 
 > 为了便于识别，图中每个常量项中的 `tag` 下方所标的指示格式为 "索引 - 常量 tag"，其中，U - UTF-8、C - Class、M - Method、F - Field、N&T - Name And Type。每一个 UTF-8 常量项背景为蓝色，其它常量项背景为灰色。
 
@@ -779,7 +779,7 @@ public class Test {
 
 而常量池后的其它数据则是对 Test 的相关信息说明与用于执行的虚拟机指令：
 
-![class file others]({{ site.assets }}/assets/posts/first-cup-of-coffee/4.png)
+![class file others]({{ site.assets }}/assets/posts/first-cup-of-coffee/4.webp)
 
 > 右方对应颜色的色块用于协助理解数据之间的层级关系，灰色部分为各个方法编译所得的虚拟机指令
 
@@ -1068,7 +1068,7 @@ public class Test {
 > 
 > 在这一例子中，通过命令 "javap -verbose Test" 可以得到 Test 的 Class 文件信息：
 > 
-> ![javap -verbose Test]({{ site.assets }}/assets/posts/first-cup-of-coffee/5.png)
+> ![javap -verbose Test]({{ site.assets }}/assets/posts/first-cup-of-coffee/5.webp)
 
 ## 参考链接
 
